@@ -114,7 +114,7 @@
     "mqtt_port": "str",
     "mqtt_user": "str",
     "mqtt_password": "password",
-    "type": "list(scanner|sleeptracker|ergowifi|richmat|linak|solace|motosleep|reverie|leggettplatt|logicdata|ergomotion|okimat|keeson|octo)",
+    "type": "list(scanner|sleeptracker|ergowifi|richmat|linak|solace|motosleep|reverie|leggettplatt|logicdata|ergomotion|okimat|keeson|octo|bluetooth)",
     "sleeptrackerRefreshFrequency": "int(0,)",
     "sleeptrackerCredentials": [
       {
